@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lce:home|Door43 (lce)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lce|d43-lce repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lce/archive/master.zip|d43-lce.zip]]
+
+**Recent Changes**
+{{changes>ns = lce}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lce|Ethnologue data]]
+
